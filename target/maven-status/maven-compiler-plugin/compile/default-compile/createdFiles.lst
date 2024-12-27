@@ -1,0 +1,8 @@
+com/crick/apis/repos/MatchRepo.class
+com/crick/apis/service/MatchService.class
+com/crick/apis/controllers/MatchController.class
+com/crick/apis/entities/Match.class
+com/crick/apis/CrickInformerBackendApplication.class
+com/crick/apis/helper/TimeConverter.class
+com/crick/apis/service/impl/MatchServiceImpl.class
+com/crick/apis/entities/MatchStatus.class
